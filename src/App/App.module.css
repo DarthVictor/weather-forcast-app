@@ -1,0 +1,28 @@
+.app {
+    width: 90%;
+    margin: 30px auto;
+    max-width: 360px;
+    font-size: 18px;
+}
+
+.form {
+    background-color: transparent;
+    width: 100%;
+}
+
+.currentDay,
+.forecast,
+.error {
+    margin-top: 1em;
+}
+
+.error {
+    color: brown;
+}
+
+.spinner {
+    height: 8em;
+    width: 8em;
+    display: block;
+    margin: 2em auto;
+}

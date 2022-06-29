@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Configuring API key
+
+Set you weatherapi.com API key using .env file
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -18,6 +22,10 @@ You will also see any lint errors in the console.
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run test-ci`
+
+Launches the test in CI mode with coverage information
 
 ### `npm run build`
 

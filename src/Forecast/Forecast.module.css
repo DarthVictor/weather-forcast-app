@@ -1,0 +1,19 @@
+.forecast {
+    display: flex;
+
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.body {
+    flex-grow: 1;
+}
+
+.day {
+    margin: 0.5em;
+}
+
+.data {
+    font-size: 0.8em;
+    margin: 0;
+}
